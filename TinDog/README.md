@@ -1,4 +1,4 @@
-# Project Name
+# TinDog Website
 This project was created based on the learnt on HTML, CSS and Bootstrap recently by me
 
 
